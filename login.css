@@ -1,0 +1,29 @@
+.principal{
+    border: black solid 3px;
+    width: 200px;
+    height: 500px;
+    margin: auto;
+    box-shadow: 3px 6px grey;
+    
+}
+img{
+    max-width: 150px;
+    margin-left: 20px;
+   
+}
+.entrar{
+  text-align: center;
+  background-color: blue;
+  border-radius: 10%;
+  width: 150px;
+  color: white;
+  margin-left: 20px;
+  
+
+    
+}
+.password{
+    border-radius: 10%;
+    border: grey solid 2px;
+    margin-left: 30px;
+}
